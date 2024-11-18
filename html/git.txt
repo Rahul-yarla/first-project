@@ -1,0 +1,6 @@
+1 make any changes to file 
+in cmd check git status 
+if any changes found(they will be in red color)g
+git add file name .. for multiple files
+git commit -m "commit msg"
+git push
